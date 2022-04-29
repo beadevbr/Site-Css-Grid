@@ -511,10 +511,6 @@ footer {
   }
 }
 @media (max-width: 570px) {
-  .section2--title img {
-    height: 15%;
-  }
-
   .section5--text h1 {
     font-size: 40px;
   }
@@ -522,6 +518,7 @@ footer {
     max-width: 350px;
     font-size: 17px;
   }
+
   @media (max-width: 520px) {
     .container2 {
       align-items: center;
@@ -553,7 +550,7 @@ footer {
     .section3--names {
       height: 290px;
     }
-  }
+  
   .section2--title {
     height: 290px;
   }
